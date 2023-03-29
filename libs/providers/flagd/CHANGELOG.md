@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.6](https://github.com/open-feature/js-sdk-contrib/compare/flagd-provider-v0.7.5...flagd-provider-v0.7.6) (2023-03-29)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** update dependency lru-cache to v8 ([#260](https://github.com/open-feature/js-sdk-contrib/issues/260)) ([e752c4a](https://github.com/open-feature/js-sdk-contrib/commit/e752c4a13efb856e35d424a0938ab83b898ec5b5))
+
 ## [0.7.5](https://github.com/open-feature/js-sdk-contrib/compare/flagd-provider-v0.7.4...flagd-provider-v0.7.5) (2023-03-02)
 
 
